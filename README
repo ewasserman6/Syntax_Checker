@@ -1,0 +1,15 @@
+Eric Wasserman
+2300841
+ewasserman@chapman
+Section 3
+
+CPSC350
+Template Stack and Syntax Checker
+
+Source Files:
+  1. GenStack.h
+  2. stackmain.cpp
+
+Resources
+    1. Template Classes - https://www.techiedelight.com/stack-implementation-using-templates/
+    2. Syntax Checker - Page 205, Chapter 5.1. "Data Structures and Algorithms in C++"
